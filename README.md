@@ -1,5 +1,5 @@
-# Institute Fests' Apps
-A collection of apps of institute's technical fest Cognitia and cultural fest Shishir
+# Institute Fests' Android Apps
+A collection of Android apps of NIT Meghalaya's technical fest Cognitia and cultural fest Shishir
 
 ## Cognitia : Technical Fest
 
