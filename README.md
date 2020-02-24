@@ -8,5 +8,4 @@ A collection of Android apps of NIT Meghalaya's technical fest Cognitia and cult
 
 ## Shishir: Cultural Fest
 
-#### 2018: [https://github.com/NIT-Meghalaya/Shishir-18](https://github.com/NIT-Meghalaya/Shishir-18) **(Java)**
 #### 2019: [https://github.com/NIT-Meghalaya/Shishir-2019-App](https://github.com/NIT-Meghalaya/Shishir-2019-App) **(Kotlin)**
